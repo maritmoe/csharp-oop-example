@@ -1,0 +1,14 @@
+C:\Users\MMoe10\dotnet\MyApps\csharp-oop-example\bin\Debug\net8.0\csharp-oop-example.exe
+C:\Users\MMoe10\dotnet\MyApps\csharp-oop-example\bin\Debug\net8.0\csharp-oop-example.deps.json
+C:\Users\MMoe10\dotnet\MyApps\csharp-oop-example\bin\Debug\net8.0\csharp-oop-example.runtimeconfig.json
+C:\Users\MMoe10\dotnet\MyApps\csharp-oop-example\bin\Debug\net8.0\csharp-oop-example.dll
+C:\Users\MMoe10\dotnet\MyApps\csharp-oop-example\bin\Debug\net8.0\csharp-oop-example.pdb
+C:\Users\MMoe10\dotnet\MyApps\csharp-oop-example\obj\Debug\net8.0\csharp-oop-example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MMoe10\dotnet\MyApps\csharp-oop-example\obj\Debug\net8.0\csharp-oop-example.AssemblyInfoInputs.cache
+C:\Users\MMoe10\dotnet\MyApps\csharp-oop-example\obj\Debug\net8.0\csharp-oop-example.AssemblyInfo.cs
+C:\Users\MMoe10\dotnet\MyApps\csharp-oop-example\obj\Debug\net8.0\csharp-oop-example.csproj.CoreCompileInputs.cache
+C:\Users\MMoe10\dotnet\MyApps\csharp-oop-example\obj\Debug\net8.0\csharp-oop-example.dll
+C:\Users\MMoe10\dotnet\MyApps\csharp-oop-example\obj\Debug\net8.0\refint\csharp-oop-example.dll
+C:\Users\MMoe10\dotnet\MyApps\csharp-oop-example\obj\Debug\net8.0\csharp-oop-example.pdb
+C:\Users\MMoe10\dotnet\MyApps\csharp-oop-example\obj\Debug\net8.0\csharp-oop-example.genruntimeconfig.cache
+C:\Users\MMoe10\dotnet\MyApps\csharp-oop-example\obj\Debug\net8.0\ref\csharp-oop-example.dll
